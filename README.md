@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/74586716/182465804-84b8e248-a89b-433b-bdd8-c0899bd02659.png)
+
 - 👋 Hi, I’m @ShagizMan
 - 👀 I’m interested in Information technology and creating a world new
 - 🌱 I’m currently learning at Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia.
