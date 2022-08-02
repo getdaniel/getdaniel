@@ -4,9 +4,9 @@
 - 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
 - 📫 Any one can reach me by danielgetaneh2011@gmail.com
 
-## 📈 GitHub State 
+## 📈 GitHub Status 
 
-[![ShagizMan's github stats](https://github-readme-stats.vercel.app/api?username=ShagizMan)](https://github.com/ShagizMan)
+[![ShagizMan's github status](https://github-readme-stats.vercel.app/api?username=ShagizMan)](https://github.com/ShagizMan)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShagizMan&layout=compact)](https://github.com/ShagizMan)
 
