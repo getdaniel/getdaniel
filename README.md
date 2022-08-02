@@ -6,9 +6,9 @@
 
 ## 📈 GitHub Status 
 
-[![ShagizMan's github status](https://github-readme-stats.vercel.app/api?username=ShagizMan)](https://github.com/ShagizMan)
+[![ShagizMan's github status](https://github-readme-status.vercel.app/api?username=ShagizMan)](https://github.com/ShagizMan)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShagizMan&layout=compact)](https://github.com/ShagizMan)
+[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=ShagizMan&layout=compact)](https://github.com/ShagizMan)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=ShagizMan.ShagizMan)](https://www.yushi.dev/)
 
