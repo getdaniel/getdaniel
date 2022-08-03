@@ -1,5 +1,5 @@
-<p align=center width=100%>
-    <img src="https://user-images.githubusercontent.com/74586716/182465804-84b8e248-a89b-433b-bdd8-c0899bd02659.png" alt="computer">
+<p align=center>
+    <img src="https://user-images.githubusercontent.com/74586716/182465804-84b8e248-a89b-433b-bdd8-c0899bd02659.png" width=100% alt="computer">
 </p>
 
 - 👋 Hi, I’m @ShagizMan
