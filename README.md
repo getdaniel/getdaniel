@@ -10,9 +10,9 @@
 
 ## 📈 GitHub Status 
 
-[![ShagizMan's github status](https://github-readme-status.vercel.app/api?username=ShagizMan)](https://github.com/ShagizMan)
+[![getdaniel's github status](https://github-readme-status.vercel.app/api?username=getdaniel)](https://github.com/getdaniel)
 
-[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=ShagizMan&layout=compact)](https://github.com/ShagizMan)
+[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=getdaniel&layout=compact)](https://github.com/getdaniel)
 
 <!---
 ShagizMan/ShagizMan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
