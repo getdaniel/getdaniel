@@ -10,11 +10,11 @@
 
 ## 📈 GitHub Status 
 
-[![getdaniel's github status](https://github-readme-status.vercel.app/api?username=getdaniel)](https://github.com/getdaniel)
+<!-- [![getdaniel's github status](https://github-readme-status.vercel.app/api?username=getdaniel)](https://github.com/getdaniel)
 
 [![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=getdaniel&layout=compact)](https://github.com/getdaniel)
 
-![Snake animation](https://github.com/getdaniel/getdaniel/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/getdaniel/getdaniel/blob/output/github-contribution-grid-snake.svg) -->
 
 <!---
 getdaniel/getdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
