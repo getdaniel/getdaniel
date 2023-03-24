@@ -54,7 +54,7 @@
       <img src="http://github-readme-streak-stats.herokuapp.com?user=getdaniel&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
   </div>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=getdaniel&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!---
 getdaniel/getdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
