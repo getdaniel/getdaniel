@@ -2,13 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
-- 👋 Hi, I’m @getdaniel
-- 👀 I’m interested in Information technology and creating a world new
-- 🌱 I’m currently learning at Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia.
-- 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
-- 📫 Any one can reach me by danielgetaneh2011@gmail.com
-
-<div id="badges">
+<div id="badges" align="center">
   <a href="your-linkedin-URL">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -19,6 +13,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+
+- 👋 Hi, I’m @getdaniel
+- 👀 I’m interested in Information technology and creating a world new
+- 🌱 I’m currently learning at Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia.
+- 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
+- 📫 Any one can reach me by danielgetaneh2011@gmail.com
+
 
 <!---
 getdaniel/getdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
