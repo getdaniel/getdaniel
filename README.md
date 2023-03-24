@@ -1,6 +1,6 @@
-<p align=center>
-    <img src="https://user-images.githubusercontent.com/74586716/182465804-84b8e248-a89b-433b-bdd8-c0899bd02659.png" width=100% alt="computer">
-</p>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 👋 Hi, I’m @getdaniel
 - 👀 I’m interested in Information technology and creating a world new
