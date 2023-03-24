@@ -49,8 +49,9 @@
 </div>
 
 ### :fire: My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=getdaniel&theme=dark&background=000000&align=center)](https://git.io/streak-stats)
-
+  <div align="center">
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=getdaniel&theme=dark&background=000000)](https://git.io/streak-stats)
+  </div>
 
 <!---
 getdaniel/getdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
