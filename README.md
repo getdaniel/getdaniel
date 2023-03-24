@@ -49,7 +49,7 @@
 </div>
 
 ### :fire: My Stats :
-  <div style="text-align: center;">
+  <div align="center">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=getdaniel&theme=dark&background=000000" alt="GitHub Streak" />
     </a>
