@@ -8,7 +8,7 @@
 - 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
 - 📫 Any one can reach me by danielgetaneh2011@gmail.com
 
-## 📈 GitHub Status 
+<!-- ## 📈 GitHub Status  -->
 
 <!-- [![getdaniel's github status](https://github-readme-status.vercel.app/api?username=getdaniel)](https://github.com/getdaniel)
 
