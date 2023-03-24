@@ -22,14 +22,14 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> <br />
 
-### :man_technologist: About Me :
+## :man_technologist: About Me
 - 👋 Hi, I’m @getdaniel
 - 👀 I’m interested in Information technology and creating a world new
 - 🌱 I’m currently learning at Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia.
 - 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
 - 📫 Any one can reach me by [Gmail](mailto:danielgetaneh2011@gmail.com)
 
-### :hammer_and_wrench: Languages and Tools :
+## :hammer_and_wrench: Languages and Tools :
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,7 +48,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
-### :fire: My Stats :
+## :fire: My Stats :
   <div align="center">
     <a href="https://git.io/streak-stats">
       <img src="http://github-readme-streak-stats.herokuapp.com?user=getdaniel&theme=dark&background=000000" alt="GitHub Streak" />
