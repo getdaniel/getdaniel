@@ -8,13 +8,17 @@
 - 💞️ I’m looking to collaborate on any softeware development specially in mobile development, Artificial Intelligence.
 - 📫 Any one can reach me by danielgetaneh2011@gmail.com
 
-<!-- ## 📈 GitHub Status  -->
-
-<!-- [![getdaniel's github status](https://github-readme-status.vercel.app/api?username=getdaniel)](https://github.com/getdaniel)
-
-[![Top Langs](https://github-readme-status.vercel.app/api/top-langs/?username=getdaniel&layout=compact)](https://github.com/getdaniel)
-
-![Snake animation](https://github.com/getdaniel/getdaniel/blob/output/github-contribution-grid-snake.svg) -->
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
 
 <!---
 getdaniel/getdaniel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
