@@ -22,6 +22,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div> <br />
 
+### :man_technologist: About Me :
 - 👋 Hi, I’m @getdaniel
 - 👀 I’m interested in Information technology and creating a world new
 - 🌱 I’m currently learning at Bahir Dar Institute of Technology, Bahir Dar University, Ethiopia.
