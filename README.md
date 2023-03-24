@@ -12,7 +12,7 @@
   <a href="your-twitter-URL">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-</div>
+</div> <br><br>
 
 - 👋 Hi, I’m @getdaniel
 - 👀 I’m interested in Information technology and creating a world new
